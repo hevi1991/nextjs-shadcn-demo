@@ -1,3 +1,8 @@
+This is the completed code reference for the course:
+[Shadcn UI + Next JS - Build beautiful dashboards with shadcn](https://www.udemy.com/course/shadcn-ui/?referralCode=9BD15934CF78810643AB).
+
+---
+
 This is a [Next.js](https://nextjs.org/) project bootstrapped with [`create-next-app`](https://github.com/vercel/next.js/tree/canary/packages/create-next-app).
 
 ## Getting Started
